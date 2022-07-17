@@ -8,7 +8,7 @@
 <div align="center">
 <h3 align="center">PS3 HFW Server</h3>
   <p align="center">
-    project_description
+    Download and install Hybrid Firmware (HFW) Without PC.
     <br />
     <br />
     <a href="https://github.com/xfrcc/ps3-hfw-server">View Demo (TODO)</a>
