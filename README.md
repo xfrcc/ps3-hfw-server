@@ -51,30 +51,22 @@ This is a proxy server to trick the console that there is a new version of the f
 
 ### Prerequisites
 * Firmware
-  ```
- Hybrid Firmware desired to install, see [PS3Xploit](https://ps3xploit.com)
-  ```
+  ```Hybrid Firmware desired to install, see [PS3Xploit](https://ps3xploit.com)```
 
 ### Installation
 
 1. Clone the repo
-   ```
-   git clone https://github.com/xfrcc/ps3-hfw-server.git
-   ```
+   ```git clone https://github.com/xfrcc/ps3-hfw-server.git```
 2. Paste the Firmware File in the proyect folder.
 3. Start server
-   ```python main.py
-   ```
+   ```python main.py```
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 In the PS3 Follow the next steps
-    ```
-    Go to Network Settings>Internet connection settings and select the same setting as follow
+    ```Go to Network Settings>Internet connection settings and select the same setting as follow
     Settings Method: Custom
     Connection Method: Wired or Wireless
     IP Address Setting: Automatic
@@ -85,7 +77,6 @@ In the PS3 Follow the next steps
     in Proxy Server Address you write the ip where the local proxy server is running
     and port is 80
     Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
-    
     ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -93,9 +84,8 @@ In the PS3 Follow the next steps
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [PS3-custom-fwversion-proxy](https://github.com/Mte90/PS3-custom-fwversion-proxy)
+* [PS3Xploit Team](https://ps3xploit.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
