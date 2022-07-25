@@ -28,7 +28,7 @@ class PS3Proxy(SimpleHTTPRequestHandler):
             region = url.split("/")[-2]
             print('Console region is {}'.format(region))
             res = "# {}\r\n".format(regions[region]["name"])+\
-            "Dest={};ImageVersion=99999999;SystemSoftwareVersion=9.99;CDN=PS3UPDAT.PUP;CDN_Timeout=30;\r\n".format(regions[region]["targetId"])
+            "Dest={};ImageVersion=00010aae;SystemSoftwareVersion=9.99;CDN=PS3UPDAT.PUP;CDN_Timeout=30;\r\n".format(regions[region]["targetId"])
 
             self.send_response(200)
             self.send_header("Content-Type", "text/plain")
