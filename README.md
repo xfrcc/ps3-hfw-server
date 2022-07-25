@@ -9,6 +9,7 @@
 <h3 align="center">PS3 HFW Server</h3>
   <p align="center">
     Download and install Hybrid Firmware (HFW) Without PC.
+    WARNING: THIS IS NOT INTENDED FOR DAILY ONLINE USE, JUST FOR FIRMWARE INSTALLING
     <br />
     <br />
     <a href="https://github.com/xfrcc/ps3-hfw-server">View Demo (TODO)</a>
