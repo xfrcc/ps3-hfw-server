@@ -63,7 +63,6 @@ Also if you visit the web browser, redirects any request to [PS3Xploit's HEN Alt
    
 2. Paste the Firmware File in the proyect folder.
 3. Start server
-4. 
    ```python main.py```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
