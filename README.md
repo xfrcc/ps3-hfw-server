@@ -79,6 +79,7 @@ In the PS3 Follow the next steps
 * In Proxy Server Address you write the ip where the proxy server is running
 * Use the port provided in the demo, or if running locally just use 80.
 * Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
+* Check for updates via internet, if you typed correctly the ip and port, there will be an update available (9.99) but don't worry, that 9.99 version is fake it will remain 4.89 or the firmware version you put in the proyect folder.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
