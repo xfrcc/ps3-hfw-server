@@ -52,7 +52,7 @@ This is a proxy server to trick the console that there is a new version of the f
 
 ### Prerequisites
 * Firmware
-  ```Hybrid Firmware desired to install, see [PS3Xploit](https://ps3xploit.com)```
+  ```Hybrid Firmware desired to install, see```[PS3Xploit](https://ps3xploit.com)
 
 ### Installation
 
