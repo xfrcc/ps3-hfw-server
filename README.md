@@ -67,17 +67,17 @@ This is a proxy server to trick the console that there is a new version of the f
 ## Usage
 
 In the PS3 Follow the next steps
-    ```Go to Network Settings>Internet connection settings and select the same setting as follow```
-    * Settings Method: Custom
-    * Connection Method: Wired or Wireless
-    * IP Address Setting: Automatic
-    * DHCP Host Name: Do Not Set
-    * DNS Setting: Automatic
-    * MTU: Automatic
-    * Proxy Server: Use
-    * in Proxy Server Address you write the ip where the local proxy server is running
-    * and port is 80
-    * Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
+* Go to Network Settings>Internet connection settings and select the same setting as follow
+* Settings Method: Custom
+* Connection Method: Wired or Wireless
+* IP Address Setting: Automatic
+* DHCP Host Name: Do Not Set
+* DNS Setting: Automatic
+* MTU: Automatic
+* Proxy Server: Use
+* in Proxy Server Address you write the ip where the local proxy server is running
+* and port is 80
+* Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
