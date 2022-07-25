@@ -44,6 +44,7 @@
 
 This is a proxy server to trick the console that there is a new version of the firmware, and it downloads and installs it, doing the opposite of what is commonly done when a new version comes out and you want to log in to PSN with an older version.
 
+Also if you visit the web browser, redirects any request to [PS3Xploit's HEN Alternate Installer](http://ps3xploit.com/hen/installer/manual/index.html)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
