@@ -4,7 +4,6 @@ from http.server import SimpleHTTPRequestHandler, HTTPServer
 from urllib import request, error, response
 
 PORT = 80
-LOCALIP = "192.168.1.236"
 regions = {
     "jp": { "name": "JP", "targetId": "83" },
     "us": { "name": "US", "targetId": "84" },
@@ -37,7 +36,7 @@ class PS3Proxy(SimpleHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(bytes(res, "utf8"))
 
-        elif url.endswith('.PUP') or url.lower().endswith('.pkg'):
+        elif url.endswith('.PUP'):
             try:
                 self.path = self.path.replace("http://", "")
                 url = self.path
