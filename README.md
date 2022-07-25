@@ -57,11 +57,15 @@ Also if you visit the web browser, redirects any request to [PS3Xploit's HEN Alt
 
 ### Installation
 
-1. Clone the repo (or download from [releases](https://github.com/xfrcc/ps3-hfw-server/releases/)
+1. Clone the repo (or download from [releases](https://github.com/xfrcc/ps3-hfw-server/releases/))
+   
    ```git clone https://github.com/xfrcc/ps3-hfw-server.git```
+   
 2. Paste the Firmware File in the proyect folder.
 3. Start server
+4. 
    ```python main.py```
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
