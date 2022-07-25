@@ -75,8 +75,8 @@ In the PS3 Follow the next steps
 * DNS Setting: Automatic
 * MTU: Automatic
 * Proxy Server: Use
-* in Proxy Server Address you write the ip where the local proxy server is running
-* and port is 80
+* In Proxy Server Address you write the ip where the proxy server is running
+* Use the port provided in the demo, or if running locally just use 80.
 * Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
