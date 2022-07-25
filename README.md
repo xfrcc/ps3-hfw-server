@@ -12,7 +12,7 @@
     WARNING: THIS IS NOT INTENDED FOR DAILY ONLINE USE, JUST FOR FIRMWARE and (or) PS3HEN INSTALL
     <br />
     <br />
-    <a href="https://replit.com/@frxx/ps3-hfw-server">View Demo</a>
+    <a href="https://replit.com/@frxx/ps3-hfw-server">View Demo (HFW 4.89)</a>
   </p>
 </div>
 
