@@ -86,6 +86,8 @@ In the PS3 Follow the next steps
 
 * [PS3-custom-fwversion-proxy](https://github.com/Mte90/PS3-custom-fwversion-proxy)
 * [PS3Xploit Team](https://ps3xploit.com)
+* [PS3-Proxy-Server-for-Android](https://github.com/DADi590/PS3-Proxy-Server-for-Android)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
