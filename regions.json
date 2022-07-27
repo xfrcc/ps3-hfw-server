@@ -1,0 +1,14 @@
+{
+    "jp": { "name": "JP", "targetId": "83" },
+    "us": { "name": "US", "targetId": "84" },
+    "eu": { "name": "EU", "targetId": "85" },
+    "kr": { "name": "KR", "targetId": "86" },
+    "uk": { "name": "UK", "targetId": "87" },
+    "mx": { "name": "MX", "targetId": "88" },
+    "au": { "name": "AU/NZ", "targetId": "89" },
+    "sa": { "name": "SouthAsia", "targetId": "8A" },
+    "tw": { "name": "TW", "targetId": "8B" },
+    "ru": { "name": "RU", "targetId": "8C" },
+    "cn": { "name": "CN", "targetId": "8D" },
+    "br": { "name": "BR", "targetId": "8F" }
+}
