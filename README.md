@@ -79,6 +79,7 @@ In the PS3 Follow the next steps
 * Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
 * Go to system update, a fake 9.99 one will appear, just install as normal
 * Optional, go to the web browser to start instantly the PS3Xploit's HEN Installer
+* Don't forget to disable the proxy after in your PS3
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
