@@ -50,10 +50,8 @@ This is a proxy server to trick the console that there is a new version of the f
 ## Getting Started
 
 ### Prerequisites
-* Node.js
-  Node.js v16.x
-* Firmware
-  Hybrid Firmware desired to install, see [PS3Xploit](https://ps3xploit.com)
+* Node.js v16.x
+* Firmware desired to install, see [PS3Xploit](https://ps3xploit.com)
 
 ### Installation
 
@@ -79,7 +77,8 @@ In the PS3 Follow the next steps
 * Proxy Server: Use
 * In Proxy Server Address, if you're running locally you write the ip where the proxy server is running and port is 80 by default, if you're using the repl live write the one provided there
 * Now continue and UPnP enable, save Settings but DO NOT test connection (it wont work)
-
+* Go to system update, a fake 9.99 one will appear, just install as normal
+* Optional, go to the web browser to start instantly the PS3Xploit's HEN Installer
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
