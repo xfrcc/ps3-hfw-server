@@ -11,7 +11,7 @@
     Download and install Hybrid Firmware (HFW) Without PC.
     <br />
     <br />
-    <a href="https://ps3-hfw-server-node.frxx.repl.co/">Run live (HFW 4.89)</a>
+    <a href="https://replit.com/@frxx/ps3-hfw-server-node">Run live (HFW 4.89)</a>
   </p>
 </div>
 
